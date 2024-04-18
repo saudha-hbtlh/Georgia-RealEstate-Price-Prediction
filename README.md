@@ -23,7 +23,19 @@ Predicting real estate prices helps in many ways:
 * Predictive Modeling
 
 ### Technologies
+* Python
+* Jupyter notebook
+* HTML
+* Java Script
+* CSS
+
+### pip install
 * flask
+* pickle
+* jason
+* numpy
+* matplotlib
+* pandas
 * waitress
 * util
 * flask_cors
@@ -40,17 +52,19 @@ Predicting real estate prices helps in many ways:
 
 | File                   | Uses |
 | :---                    | --- |
-| project_name            | A name for your project. Used mostly within documentation | 
-| Initial_eda.ipynb       | Early data wrangling, exploration and simple analysis | 
-| functions.py            | Refactored functions that are reused throughout the notebooks|
-| data                    | Folder containing csvs of data collected |
-| model_result            | Results of nerual network predictions | 
-| weather_file.csv        | Result from DarkSky API call| 
-| re_fixed...series.csv   | Single and multivariate cleaned time series .csv | 
-| Battery                 | Simple model of tesla battery based on best predictive model | 
-| ARIMA & XGBoost.ipynb   | ARIMA & XGBoost models | 
-| naive_methods.ipynb     | Baseline model | 
-| multivariate_LSTM_ele...| Google collab neural network upload| 
-| Electricity Pr ... .pdf | Non-technical presentation | 
-| ResultAnalysis.ipynb    | Neural network result analysis|
+| Model> RealEstate_Georgia.csv      |CSV file with georgia real estate information|
+| Model > Real Estate.ipynb           | Jupyter notebook used to preprocess the Real estate csv file and to create the pickle medel for the app| 
+| Model > real_estate_new_real_file.csv       | CSV file created after preprocessing | 
+| Model > X_file.csv         | Train Data|
+| Model > Y_file.csv             | Test Data |
+| Model > columns.json           |COlumns in the CSV file | 
+| Model > unique_values_city.json        | Unique values in the column city | 
+| Model > unique_values_county.json| Unique values in the column county | 
+| Model > unique_values_homeType.json                 | Unique values in the column home Type | 
+| Model > unique_values_levels.json   | Unique values in the column levels | 
+| Server > server.py     | flask app code | 
+| Server > util.py| util file connected with server.py| 
+| Client > app.html | html web page | 
+| Client> app.js    | js code is already added in html seperately ..this file also has it for external clarifications|
+| Client> app.css   | css code for the html|
 
