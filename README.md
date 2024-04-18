@@ -13,6 +13,7 @@ Predicting real estate prices helps in many ways:
  * Predicting prices helps cities plan better roads, buildings, and taxes, which helps the economy grow.
 
 ![Screenshot 2024-04-18 151902](https://github.com/saudha-hbtlh/Georgia-RealEstate-Price-Prediction/assets/167196714/f42c502a-29ef-426d-b266-2526f7c8e2c5)
+![Screenshot 2024-04-18 154119](https://github.com/saudha-hbtlh/Georgia-RealEstate-Price-Prediction/assets/167196714/efca045a-ef08-4370-a1f5-3932efed52d7)
 ![Screenshot 2024-04-18 152032](https://github.com/saudha-hbtlh/Georgia-RealEstate-Price-Prediction/assets/167196714/85a2dadc-6837-4037-9ba0-764e1707c451)
 
 
