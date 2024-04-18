@@ -11,7 +11,10 @@ Predicting real estate prices helps in many ways:
  * People looking to buy or sell a property know the expected price, which helps them negotiate better.
  * Individuals and businesses plan their property investments and budgets better by knowing what prices might be in the future.
  * Predicting prices helps cities plan better roads, buildings, and taxes, which helps the economy grow.
+
 ![Screenshot 2024-04-18 151902](https://github.com/saudha-hbtlh/Georgia-RealEstate-Price-Prediction/assets/167196714/f42c502a-29ef-426d-b266-2526f7c8e2c5)
+![Screenshot 2024-04-18 152032](https://github.com/saudha-hbtlh/Georgia-RealEstate-Price-Prediction/assets/167196714/85a2dadc-6837-4037-9ba0-764e1707c451)
+
 
 ### Methods Used
 * Machine Learning
